@@ -1,0 +1,9 @@
+Huseyin Uzun
+21702559
+CS421-01
+
+You should use below command to run the code;
+
+javac ParallelDownloader.java
+
+java ParallelDownloader <index_file> <num_of_threads>
